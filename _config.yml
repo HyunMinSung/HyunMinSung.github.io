@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "성현민"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/파일이름.파일형식"
   bio              : "프로그래밍을 배우는 행복한 HAFS 학생"
   location         : "대한민국, 부산"
   email            : "21-21012@hafs.hs.kr"
