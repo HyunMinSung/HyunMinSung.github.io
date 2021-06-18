@@ -4,7 +4,7 @@ title: "인공지능 유튜브 동영상"
 toc: true
 toc_sticky: true
 toc_label: "동영상 목차"
-categories: "인공지능"
+categories: "IT"
 ---
 
 ### 01. AI의 역사
